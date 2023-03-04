@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gpt-3-ux-ui.git/static/css/main.a5a75a4a.css",
-    "main.js": "/gpt-3-ux-ui.git/static/js/main.474b81e1.js",
-    "static/media/ai.png": "/gpt-3-ux-ui.git/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/blog01.png": "/gpt-3-ux-ui.git/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/gpt-3-ux-ui.git/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/gpt-3-ux-ui.git/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/gpt-3-ux-ui.git/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/gpt-3-ux-ui.git/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/logo.png": "/gpt-3-ux-ui.git/static/media/logo.ec533d3def8c7b8f36aa.png",
-    "static/media/people.png": "/gpt-3-ux-ui.git/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/gpt-3-ux-ui.git/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/gpt-3-ux-ui.git/index.html",
-    "main.a5a75a4a.css.map": "/gpt-3-ux-ui.git/static/css/main.a5a75a4a.css.map",
-    "main.474b81e1.js.map": "/gpt-3-ux-ui.git/static/js/main.474b81e1.js.map"
+    "main.css": "/gpt-3-ux-ui/static/css/main.a5a75a4a.css",
+    "main.js": "/gpt-3-ux-ui/static/js/main.ad1d683b.js",
+    "static/media/ai.png": "/gpt-3-ux-ui/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/blog01.png": "/gpt-3-ux-ui/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/gpt-3-ux-ui/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/gpt-3-ux-ui/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/gpt-3-ux-ui/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/gpt-3-ux-ui/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/logo.png": "/gpt-3-ux-ui/static/media/logo.ec533d3def8c7b8f36aa.png",
+    "static/media/people.png": "/gpt-3-ux-ui/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt-3-ux-ui/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gpt-3-ux-ui/index.html",
+    "main.a5a75a4a.css.map": "/gpt-3-ux-ui/static/css/main.a5a75a4a.css.map",
+    "main.ad1d683b.js.map": "/gpt-3-ux-ui/static/js/main.ad1d683b.js.map"
   },
   "entrypoints": [
     "static/css/main.a5a75a4a.css",
-    "static/js/main.474b81e1.js"
+    "static/js/main.ad1d683b.js"
   ]
 }
